@@ -1,0 +1,6 @@
+{
+  "name": "Rwanda Tourism Explorer",
+  "description": "Smart digital tourism discovery, interactive mapping, and travel planning platform for Rwanda.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
